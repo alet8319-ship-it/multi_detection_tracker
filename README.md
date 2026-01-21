@@ -117,7 +117,7 @@ Press 'q' to quit
 
 ```
 multi-detection-tracker/
-├── multi_detection_tracker.py   # Main application
+├── main.py   # Main application
 ├── requirements.txt              # Python dependencies
 ├── download_models.sh            # Model download script (Linux/macOS)
 ├── download_models.bat           # Model download script (Windows)
